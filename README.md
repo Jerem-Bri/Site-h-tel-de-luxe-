@@ -109,7 +109,7 @@ Les contributions sont les bienvenues pour améliorer le projet. Voici comment v
 
 ## Auteurs
 
-- [Votre Nom](https://github.com/votre-utilisateur) : Développeur principal.
+- [BRIISIERE Jérémie](https://github.com/votre-utilisateur) : Développeur principal.
 - [Autres contributeurs] : Mentionnez toute personne ayant contribué au projet.
 
 ---
@@ -122,5 +122,5 @@ Ce projet est sous licence [MIT](./LICENSE). Vous êtes libre de l'utiliser et d
 
 ## Contact
 
-Pour toute question ou suggestion, contactez-nous via [email@example.com](mailto:email@example.com).
+Pour toute question ou suggestion, contactez-nous via [jeremie.brissiere@gmail.com](mailto:jeremie.brissiere@gmail.com).
 
